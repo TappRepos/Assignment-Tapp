@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A demo app that uses my-sdk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "my-sdk": "file:../my-sdk"
+  },
+  "license": "MIT"
+}

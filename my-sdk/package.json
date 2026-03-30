@@ -1,0 +1,7 @@
+{
+  "name": "my-sdk",
+  "version": "1.0.0",
+  "description": "A simple utility SDK for the QA assignment",
+  "main": "index.js",
+  "license": "MIT"
+}
